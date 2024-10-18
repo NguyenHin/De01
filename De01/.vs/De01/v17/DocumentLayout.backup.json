@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\De01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB972BEE-3442-49CB-BF0F-D4041B0FD4B6}|..\\BUS\\BUS.csproj|c:\\users\\truchien\\source\\repos\\nguyenhuynhtruchien_2280600900\\bus\\lopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB972BEE-3442-49CB-BF0F-D4041B0FD4B6}|..\\BUS\\BUS.csproj|c:\\users\\truchien\\source\\repos\\nguyenhuynhtruchien_2280600900\\bus\\sinhvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE1E97F-2AB5-481B-9596-F35E5F0D15BC}|De01.csproj|C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\De01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE1E97F-2AB5-481B-9596-F35E5F0D15BC}|De01.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE1E97F-2AB5-481B-9596-F35E5F0D15BC}|De01.csproj|C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\De01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CE1E97F-2AB5-481B-9596-F35E5F0D15BC}|De01.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097822F1-DE9C-461B-B60E-BCC6A7F59262}|..\\DAL\\DAL.csproj|c:\\users\\truchien\\source\\repos\\nguyenhuynhtruchien_2280600900\\dal\\enitities\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\DAL\\Enitities\\SinhVien.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Enitities\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\DAL\\Enitities\\SinhVien.cs",
+              "RelativeToolTip": "..\\DAL\\Enitities\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:05:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LopService.cs",
+              "DocumentMoniker": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\BUS\\LopService.cs",
+              "RelativeDocumentMoniker": "..\\BUS\\LopService.cs",
+              "ToolTip": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\BUS\\LopService.cs*",
+              "RelativeToolTip": "..\\BUS\\LopService.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:56:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVienService.cs",
+              "DocumentMoniker": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\BUS\\SinhVienService.cs",
+              "RelativeDocumentMoniker": "..\\BUS\\SinhVienService.cs",
+              "ToolTip": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\BUS\\SinhVienService.cs*",
+              "RelativeToolTip": "..\\BUS\\SinhVienService.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:44:51.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\De01\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\De01\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:31:51.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\De01\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\truchien\\source\\repos\\NguyenHuynhTrucHien_2280600900\\De01\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:20:22.741Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
